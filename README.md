@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-A passionate **Full Stack Web Developer (MERN)** and **React Native mobile app builder** with nearly 3 years of experience creating dynamic and scalable digital solutions.  
+A passionate **Full Stack Web Developer (MERN)** and ** React Native mobile app builder** with nearly 3 years of experience creating dynamic and scalable digital solutions.  
 I love turning complex problems into clean, user-friendly apps and dashboards — both web and mobile.
 
 ---
@@ -17,7 +17,7 @@ I love turning complex problems into clean, user-friendly apps and dashboards �
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![R Native](https://img.shields.io/badge/R_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
