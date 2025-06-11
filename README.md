@@ -28,11 +28,9 @@ I love turning complex problems into clean, user-friendly apps and dashboards �
 
 ## 📱 Projects Built Independently
 
-## 🚀 Projects Overview
-
 <p align="center">
-  <img src="https://progress-bar.dev/100/?title=Web%20Dashboards%20Built%3A%205%2B&color=blue" width="300"/>
-  <img src="https://progress-bar.dev/60/?title=Mobile%20Apps%20Built%3A%203%2B&color=green" width="300"/>
+  <img src="https://img.shields.io/badge/Web_Dashboards-5%2B-blue?style=for-the-badge&logo=vercel" />
+  <img src="https://img.shields.io/badge/Mobile_Apps-3%2B-brightgreen?style=for-the-badge&logo=react" />
 </p>
 
 
