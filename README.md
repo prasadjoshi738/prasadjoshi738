@@ -26,13 +26,16 @@ I love turning complex problems into clean, user-friendly apps and dashboards �
 
 ---
 
-## 🚀 Projects Overview
+### 🚀 Projects Overview
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Web%20Dashboards-5%2B-blue?style=for-the-badge&logo=vercel" />
-  <img src="https://img.shields.io/badge/Mobile%20Apps-3%2B-green?style=for-the-badge&logo=react" />
+  <img src="https://raw.githubusercontent.com/prasadjoshi738/portfolio/main/assets/progress-web.svg" width="120" />
+  <img src="https://raw.githubusercontent.com/prasadjoshi738/portfolio/main/assets/progress-app.svg" width="120" />
 </p>
 
+<p align="center">
+  <strong>Web Dashboards</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Mobile Apps</strong>
+</p>
 
 
 ## 🌐 Portfolio & Socials
