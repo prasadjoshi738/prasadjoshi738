@@ -29,8 +29,8 @@ I love turning complex problems into clean, user-friendly apps and dashboards â€
 ### ðŸš€ Projects Overview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/prasadjoshi738/your-repo/main/assets/progress-web.svg" width="120" />
-  <img src="https://raw.githubusercontent.com/prasadjoshi738/your-repo/main/assets/progress-app.svg" width="120" />
+  <img src="https://github.com/prasadjoshi738/prasadjoshi738/blob/main/progress-web.svg" width="120" />
+  <img src="https://github.com/prasadjoshi738/prasadjoshi738/blob/main/progress-app.svg" width="120" />
 </p>
 
 <p align="center">
