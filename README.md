@@ -35,7 +35,7 @@ I love turning complex problems into clean, user-friendly apps and dashboards â€
 </p>
 
 <p align="center">
-  <strong>Web Dashboards</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Mobile Apps</strong>
+  <strong>Web Dashboards</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Mobile Apps</strong>
 </p>
 
 
