@@ -57,7 +57,7 @@ I love turning complex problems into clean, user-friendly apps and dashboards â€
 ## ðŸ“Š GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prasadjoshi738&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prasadjoshi738&show_icons=true&theme=ruvbox_light" />
 </p>
 
 ---
