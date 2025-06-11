@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Prasad Joshi 👋
 
-<!--
-**prasadjoshi738/prasadjoshi738** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a MERN stack developer passionate about building web applications and learning new technologies.
 
-Here are some ideas to get you started:
+## 💼 Skills
+- JavaScript, React, Node.js, Express, MongoDB
+- HTML, CSS, Bootstrap, Material UI
+- Git, GitHub, REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- [Inventory Tracker](https://github.com/prasadjoshi660/inventory-tracker) – A full-stack inventory management app
+- [Ecommerce Site](https://github.com/prasadjoshi660/ecommerce) – MERN based shopping platform
+
+## 📫 How to reach me
+- Email: prasadjoshi660@gmail.com  
+- Website: [webndroid.in](https://www.webndroid.in)  
+- LinkedIn: [linkedin.com/in/prasadjoshi660](https://linkedin.com/in/prasadjoshi660)
+
+---
+
+⭐️ Feel free to check out my repos!
