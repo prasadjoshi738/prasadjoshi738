@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-A passionate **Full Stack Web Developer (MERN)** and ** React Native mobile app builder** with nearly 3 years of experience creating dynamic and scalable digital solutions.  
+A passionate **Full Stack Web Developer (MERN)** and **React Native mobile app builder** with nearly 3 years of experience creating dynamic and scalable digital solutions.  
 I love turning complex problems into clean, user-friendly apps and dashboards — both web and mobile.
 
 ---
@@ -28,19 +28,13 @@ I love turning complex problems into clean, user-friendly apps and dashboards �
 
 ## 📱 Projects Built Independently
 
-### 🔹 Web Dashboards – *5+*
-- 🔧 **TeamWise ERP** – Role-based dashboard with digital warranty QR cards
-- 🚛 **Inventory Tracker** – Scalable inventory management system
-- 🛒 **Ecommerce MERN Stack** – Shopping app with auth, cart & order system
-- ⚠️ **Multi-Language VASS Display** – Realtime traffic signage with 32-language support
-- 🛠️ Admin tools, supplier portals, and more...
+## 🚀 Projects Overview
 
-### 🔹 Mobile Apps – *3+*
-- 📡 **SmartTrailer Connect** – React Native IoT control for smart traffic trailers
-- 📱 Offline-capable device dashboards with QR support
-- 🔋 Real-time battery & system monitors via hotspot/local network
+<p align="center">
+  <img src="https://progress-bar.dev/100/?title=Web%20Dashboards%20Built%3A%205%2B&color=blue" width="300"/>
+  <img src="https://progress-bar.dev/60/?title=Mobile%20Apps%20Built%3A%203%2B&color=green" width="300"/>
+</p>
 
----
 
 ## 🌐 Portfolio & Socials
 
