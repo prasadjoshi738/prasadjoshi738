@@ -29,9 +29,18 @@ I love turning complex problems into clean, user-friendly apps and dashboards â€
 ### ðŸš€ Projects Overview
 
 <p align="center">
-  <img src="https://github.com/prasadjoshi738/prasadjoshi738/blob/main/progress-web.svg" width="120" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/prasadjoshi738/prasadjoshi738/blob/main/progress-app.svg" width="120" />
+  <span style="display: inline-block; margin-right: 50px; text-align: center;">
+    <img src="https://github.com/prasadjoshi738/prasadjoshi738/blob/main/progress-web.svg" width="120" />
+     <img src="https://github.com/prasadjoshi738/prasadjoshi738/blob/main/progress-app.svg" width="120" />
+  </span>
+  <span style="display: inline-block; margin-left: 50px; text-align: center;">
+    <strong style="color:#007bff;">Web Dashboards</strong>
+    <strong style="color:#28a745;">Mobile Apps</strong>
+  </span>
+</p>
+
+<p align="center">
+  <strong>Web Dashboards</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Mobile Apps</strong>
 </p>
 
 
