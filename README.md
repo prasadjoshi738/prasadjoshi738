@@ -30,8 +30,9 @@ I love turning complex problems into clean, user-friendly apps and dashboards â€
 
 <p align="center">
   <img src="https://img.shields.io/badge/Web%20Dashboards-5%2B-blue?style=for-the-badge&logo=vercel" />
-  <img src="https://img.shields.io/badge/Mobile%20Apps-3%2B-brightgreen?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Mobile%20Apps-3%2B-green?style=for-the-badge&logo=react" />
 </p>
+
 
 
 ## ğŸŒ Portfolio & Socials
