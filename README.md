@@ -1,11 +1,11 @@
 <!-- 👤 Header Name with Subtle Glow Animation -->
-<h1 align="center" style="font-weight: bold;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=000000&center=true&vCenter=true&width=380&lines=PRASAD+JOSHI" alt="PRASAD JOSHI" />
-</h1>
+<h1 align="center">Hi 👋, I'm PRASAD JOSHI</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;React+Native+App+Builder;Problem+Solver+%7C+Tech+Explorer" alt="Role Titles" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=380&lines=Full+Stack+Web+Developer+(MERN);React+Native+App+Developer;Tech+Enthusiast+%26+Problem+Solver;Software+Developer"; alt="Typing SVG" />
 </p>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prasadjoshi738&label=Profile%20Views&color=gray&style=flat" />
