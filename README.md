@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm PRASAD JOSHI</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/prasadjoshi660" target="_blank">
+  <a href="https://linkedin.com/in/prasadjoshi738" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@TechInnovateOfficial" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://stackoverflow.com/users/your-id" target="_blank">
+  <a href="https://stackoverflow.com/users/21489347/prasad-joshi" target="_blank">
     <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/your-id/" target="_blank">
+  <a href="https://leetcode.com/u/prasadjoshi660/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="mailto:prasadjoshi660@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+   <a href="https://www.youtube.com/@TechInnovateOfficial" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
