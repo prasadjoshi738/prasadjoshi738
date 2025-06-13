@@ -89,9 +89,9 @@ Hello! I'm Prasad Joshi — a passionate **Full Stack Developer** focused on del
   <a href="https://leetcode.com/u/prasadjoshi660/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="mailto:prasadjoshi660@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=prasadjoshi660@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
   <a href="https://www.youtube.com/@TechInnovateOfficial" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
