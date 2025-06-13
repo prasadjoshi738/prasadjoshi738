@@ -1,6 +1,26 @@
 <h1 align="center">Hi 👋, I'm PRASAD JOSHI</h1>
 
 <p align="center">
+  <a href="https://linkedin.com/in/prasadjoshi660" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@TechInnovateOfficial" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/your-id" target="_blank">
+    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/your-id/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="mailto:prasadjoshi660@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=380&lines=Full+Stack+Web+Developer+(MERN);React+Native+App+Developer;Tech+Enthusiast+%26+Problem+Solver;Software+Developer"; alt="Typing SVG" />
 </p>
 
