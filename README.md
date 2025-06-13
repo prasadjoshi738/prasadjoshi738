@@ -7,13 +7,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prasadjoshi738&label=Profile%20Views&color=gray&style=flat" />
-  <img src="https://img.shields.io/github/followers/prasadjoshi738?label=Followers&style=social" />
-</p>
-
----
-
 ## 👨‍💻 About Me
 
 Hello! I'm Prasad Joshi — a passionate **Full Stack Developer** focused on delivering high-quality digital solutions across web and mobile platforms. I specialize in:
